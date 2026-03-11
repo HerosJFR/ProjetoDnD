@@ -8,56 +8,67 @@
 </head>
 
 <body>
-    <fieldset>
-        <ul>
-            <li>
-                <select name="1º Circulo" id="">
+    <main>
+        <fieldset>
+            <ul>
+                <li>
+                    1º Circulo
+                    <select name="" id="">
 
-                </select>
-            </li>
-            <li>
-                <select name="2º Circulo" id="">
+                    </select>
+                </li>
+                <li>
+                    2º Circulo
+                    <select name="" id="">
 
-                </select>
-            </li>
-            <li>
-                <select name="3º Circulo" id="">
+                    </select>
+                </li>
+                <li>
+                    3º Circulo
+                    <select name="" id="">
 
-                </select>
-            </li>
-            <li>
-                <select name="4º Circulo" id="">
+                    </select>
+                </li>
+                <li>
+                    4º Circulo
+                    <select name="" id="">
 
-                </select>
-            </li>
-            <li>
-                <select name="5º Circulo" id="">
+                    </select>
+                </li>
+                <li>
+                    5º Circulo
+                    <select name="" id="">
 
-                </select>
-            </li>
-            <li>
-                <select name="6º Circulo" id="">
+                    </select>
+                </li>
+                <li>
+                    6º Circulo
+                    <select name="" id="">
 
-                </select>
-            </li>
-            <li>
-                <select name="7º Circulo" id="">
+                    </select>
+                </li>
+                <li>
+                    7º Circulo
+                    <select name="" id="">
 
-                </select>
-            </li>
-            <li>
-                <select name="8º Circulo" id="">
+                    </select>
+                </li>
+                <li>
+                    8º Circulo
+                    <select name="" id="">
 
-                </select>
-            </li>
+                    </select>
+                </li>
 
-            <li>
-                <select name="9º Circulo" id="">
+                <li>
+                    9º Circulo
+                    <select name="" id="">
 
-                </select>
-            </li>
-        </ul>
-    </fieldset>
+                    </select>
+                </li>
+            </ul>
+        </fieldset>
+    </main>
 </body>
 
 </html>
