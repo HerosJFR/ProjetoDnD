@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <fieldset>
+        <ul>
+            <li>
+                <select name="1º Circulo" id="">
+
+                </select>
+            </li>
+            <li>
+                <select name="2º Circulo" id="">
+
+                </select>
+            </li>
+            <li>
+                <select name="3º Circulo" id="">
+
+                </select>
+            </li>
+            <li>
+                <select name="4º Circulo" id="">
+
+                </select>
+            </li>
+            <li>
+                <select name="5º Circulo" id="">
+
+                </select>
+            </li>
+            <li>
+                <select name="6º Circulo" id="">
+
+                </select>
+            </li>
+            <li>
+                <select name="7º Circulo" id="">
+
+                </select>
+            </li>
+            <li>
+                <select name="8º Circulo" id="">
+
+                </select>
+            </li>
+
+            <li>
+                <select name="9º Circulo" id="">
+
+                </select>
+            </li>
+        </ul>
+    </fieldset>
+</body>
+
+</html>
